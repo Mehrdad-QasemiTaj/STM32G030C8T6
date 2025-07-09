@@ -1,0 +1,2 @@
+# STM32G030C8T6
+STM32G030C8T6 Development Board
